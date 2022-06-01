@@ -1,7 +1,5 @@
 # AGR-Amazon.com
 
-![image](https://user-images.githubusercontent.com/61492902/171373588-a3b7533c-e1f0-46a8-83b1-644c0815b886.png)
-
 **Obiettivo:** determinare il livello di rischio all’interno di un’azienda. <br>
 
 **Azienda analizzata:** Amazon.com <br>
